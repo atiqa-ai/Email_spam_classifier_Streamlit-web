@@ -6,7 +6,7 @@ This is a Machine Learning–based Email Spam Detection System using Naive bayes
 The model learns patterns from a labeled dataset of emails and predicts if a new email is spam.
 Text data is cleaned, transformed using TF-IDF Vectorization, and classified using a supervised ML algorithm.
 
-This repository includes:
+## This repository includes:
 
 Complete data preprocessing
 
@@ -16,7 +16,7 @@ Trained model files (model.pkl, vectorizer.pkl)
 
 A fully working Streamlit web interface
 
-🚀 How It Works
+## 🚀 How It Works
 
 ✍️ User enters email text
 
@@ -24,35 +24,35 @@ A fully working Streamlit web interface
 
 🔢 TF-IDF converts text into numerical form
 
-🤖 ML model predicts:
+## 🤖 ML model predicts:
 
 1 → Spam
 
 0 → Not Spam
 
-📊 Model Performance
+## 📊 Model Performance
 
 🎯 Accuracy: 
 
 sr Model Accuracy Precision
 
-1  KN 	0.904255	1.000000
+1    KN 	      0.904255    	1.000000
 
-2	 RF	  0.967118	1.000000
+2	  RF	        0.967118	    1.000000
 
-3	 ETC	0.971954	0.991525
+3	  ETC      	  0.971954	    0.991525
 
-4	 LR 	0.970986	0.945736
+4	  LR 	        0.970986	    0.945736
 
-5	 xgb	0.970019	0.945312
+5	  xgb	        0.970019	    0.945312
 
-6	 DT	  0.924565	0.935065
+6	  DT	        0.924565	    0.935065
 
-7	 NB 	0.973888	0.888158
+7	  NB 	        0.973888	    0.888158
 
-8	 GBDT	0.934236	0.881188
+8	  GBDT	      0.934236	    0.881188
 
-9	 SVC	0.932302	0.773723
+9	  SVC	         0.932302	    0.773723
 
 
 🧮 Vectorizer: TF-IDF
