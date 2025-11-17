@@ -40,17 +40,29 @@ A fully working Streamlit web interface
 
 # SVC   Accuracy:  0.93
 
-## Random Forest    Accuracy:  0.96
+## Random Forest  
 
-## Decision Tree    Accuracy:  0.92
+Accuracy:  0.96
 
-## XGBoost         Accuracy:  0.97
+## Decision Tree  
 
-## KNN Classifier      Accuracy:  0.90
+Accuracy:  0.92
 
-## GradientBooster     Accuracy:  0.93
+## XGBoost     
 
-## Multinomial Naive Bayes     Accuracy:  0.97
+Accuracy:  0.97
+
+## KNN Classifier  
+
+Accuracy:  0.90
+
+## GradientBooster  
+
+Accuracy:  0.93
+
+## Multinomial Naive Bayes 
+
+Accuracy:  0.97
 
 ## 🌐 Streamlit Web App 
 
