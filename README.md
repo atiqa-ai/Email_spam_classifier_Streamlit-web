@@ -1,6 +1,6 @@
 # 📂 Internship Python Projects – @Arch Technologies
 
-During my internship at @Arch Technologies, I worked on practical Python & Machine Learning projects to strengthen my real-world coding skills.
+During my internship at @Arch Technologies, I have worked on practical Python & Machine Learning projects to strengthen my real-world coding skills.
 
 ## 1️⃣ Email Spam Classifier 📨
 
